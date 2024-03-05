@@ -1,1 +1,0 @@
-transparent login page

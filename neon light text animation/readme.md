@@ -1,1 +1,0 @@
-neon lighting text animation
