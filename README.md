@@ -23,22 +23,22 @@ This repository is a collection of web development projects that I have worked o
 ### Counter App
 A simple and interactive counter application that allows users to increment and decrement a numerical value. This project demonstrates the use of basic HTML, CSS, and JavaScript for DOM manipulation and event handling.
 
-![Counter App](path/to/counter-app-screenshot.png)
+![Counter App](https://github.com/CaptainDevon/Web-Development/tree/main/counter%20app)
 
 ### Neon Lighting Text Animation
 This project features a stunning neon lighting text animation using CSS. The text glows with vibrant neon colors, creating an eye-catching visual effect. This project showcases advanced CSS animations and keyframe techniques.
 
-![Neon Lighting Text Animation](path/to/neon-lighting-text-animation-screenshot.png)
+![Neon Lighting Text Animation](https://github.com/CaptainDevon/Web-Development/tree/main/neon%20light%20text%20animation)
 
 ### RGB Lighting Login Page
 An innovative login page with RGB lighting effects. The input fields and buttons have dynamic RGB color transitions, providing a modern and attractive user interface. This project demonstrates the use of CSS animations and transitions.
 
-![RGB Lighting Login Page](path/to/rgb-lighting-login-page-screenshot.png)
+![RGB Lighting Login Page](https://github.com/CaptainDevon/Web-Development/tree/main/rgb%20lighting%20login%20page)
 
 ### Transparent Login Page
 A sleek and stylish transparent login page with a blurred background effect. This project uses modern CSS properties to create a visually appealing and user-friendly login interface.
 
-![Transparent Login Page](path/to/transparent-login-page-screenshot.png)
+![Transparent Login Page](https://github.com/CaptainDevon/Web-Development/tree/main/transparent%20login%20page)
 
 ## Technologies Used
 - HTML5
